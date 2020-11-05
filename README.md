@@ -1,4 +1,4 @@
-# Twilio Client Phonegap plugins for iOS and Android
+# THIS IS OLD AND DEPRECIATED -- DO NOT USE THIS API SYSTEM FOR ANYTHING PAST V1.0.0 -- THIS SHELL REMAINS HERE ONLY AS A GUIDE FOR NEW DEVS AND EMPLOYEES TO UNDERSTAND THE OVERALL STRUCTURE OF WHAT ULTIMATELY BECAME THE 3PC ECOSYSTEM
 
 These are Phonegap plugins that expose the same JS API as Twilio Client for web as much as possible, meaning you should be able to use the same Twilio Client code from your web application inside of your Phonegap application with few if any modifications. 
 
